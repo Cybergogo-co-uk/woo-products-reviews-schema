@@ -6,7 +6,7 @@ Version: 1.0
 Plugin URI:  https://cybergogo.co.uk/
 Author: Konstantinos Pap Cybergogo
 Author URI:  https://cybergogo.co.uk/
-Author Email:
+Author Email: konstantinos@cybergogo.co.uk
 
  * Copyright: © 2024 cybergogo
  * License: GNU General Public License v3.0
